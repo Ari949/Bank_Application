@@ -1,0 +1,7 @@
+person_id:dani
+ first_name:gut 
+ last_name:123123 
+ password: 10000 amount_of_money 0person_id:dan
+ first_name:gutman 
+ last_name:321321321 
+ password: 100000 amount_of_money 0
